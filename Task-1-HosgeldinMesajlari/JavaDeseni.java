@@ -6,5 +6,3 @@ public class JavaDeseni {
         System.out.println("  J J AA V AA");
     }
 }
-
-
