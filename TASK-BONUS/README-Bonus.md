@@ -5,7 +5,8 @@
 3.(SaatDçnüştürme):Scanner ve in tyapıları kullanarak belirli bir saniyenin kaç saat kaç dakika ve kaç saniye olduğunu bulup yazdıran program.Scanner yapısı dizleri ayrıştırmak için kullanılan bir sınıftır.
 
 
-4.():
+4.(VücutK):
+
 
 
 
