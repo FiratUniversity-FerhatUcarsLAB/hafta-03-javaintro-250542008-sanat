@@ -2,5 +2,6 @@
 
 2.(İkiIslem):Double ifadesi kullanılarak pay/payda işlemi yapılır,double ifadesinin kullanılma amacı tam sayıdan sonra gelen virgüllü ifadeler için kulllanılır.
 
-3.()
+3.(Toplamaseri):İnt ifadesi  kullanılarak birden fazla tam sayının toplama işlemi yapılır.
+
 
