@@ -2,5 +2,6 @@
 
 2.(DikdörtgenHesap):1. örnekte olduğu gibi double ifadesi kullanılarak dikdörtgenin alanı ve çevresi gerklei fornüller dahilinde hesaplanıp yazdırılır.
 
-3.(ÜçgenHesap):
+3.(ÜçgenHesap):Taban çarpınyükseklik bölü iki formülü kullanılarak üçgenin alanını double yapsını kullanarak hesaplatır.
+
 
