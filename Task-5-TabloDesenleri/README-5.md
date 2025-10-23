@@ -2,5 +2,8 @@
 
 2.(MilKilometreTablosu):5,10,20,50 gibi sayıları Mil'den kaç kilometre olduğuna dçnüştürü deouble yapısı ve for döngüsnü kullanarak.
 
+3.(ÜslüSayılarTablosu):Int yapısı kullanılarak ddeğerler atanır ve println yapısını içinde 
+
+
 
 
