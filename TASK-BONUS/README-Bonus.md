@@ -5,7 +5,8 @@
 3.(SaatDçnüştürme):Scanner ve in tyapıları kullanarak belirli bir saniyenin kaç saat kaç dakika ve kaç saniye olduğunu bulup yazdıran program.Scanner yapısı dizleri ayrıştırmak için kullanılan bir sınıftır.
 
 
-4.(VücutK):
+4.(VücutKitleEndeksi):Double sınıfı kullanılarak kilo ve boy değerleri belirlenir ve kilo / (boy * boy) ilemi ile endeks hesabı yapılır.
+
 
 
 
